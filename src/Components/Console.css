@@ -1,0 +1,43 @@
+.console {
+    grid-area: logger;
+    justify-content: left;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+}
+
+.console > h4 {
+    color: goldenrod;
+    margin: 0;
+}
+
+.console > div {
+    border: cadetblue solid 2px;
+    border-radius: 4px;
+    flex-grow: 1;
+    display: flex;
+    font-size: .75em;
+    height: 50vh;
+}
+
+.console > div > div.terminal  {
+    width: 100%;
+    font-size: .75em;
+    height: 100%;
+    overflow: auto;
+    display: flex;
+    flex-flow: column;
+    padding: 0 5px;
+}
+
+.console > div > div.terminal> div {
+    margin: 5px 0 0 0
+}
+
+.console > div > div.terminal  span.fail {
+    color: crimson;
+}
+
+.console > div > div.terminal  span.success {
+    color: lightgreen;
+}

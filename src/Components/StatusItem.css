@@ -1,0 +1,14 @@
+.status > div > div.item {
+    display: flex;
+    justify-content: space-between;
+}
+.status > div > div.item > span.okay {
+    color: lightgreen;
+}
+.status > div > div.item > span.unavailable {
+    color: peru;
+}
+
+.status > div > div.item > span.fail {
+    color: crimson;
+}

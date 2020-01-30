@@ -1,0 +1,6 @@
+.interface {
+    grid-area: interface;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+}

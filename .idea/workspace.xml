@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="370e490e-0b99-4b71-a596-a5f422ce04dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/preview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1X8OOrnwCtF6q7dq8d7pzGSp8Ur" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\hornet-app\src\Components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\hornet-app\src\Components" />
+      <recent name="D:\Projects\hornet-app\src" />
+      <recent name="D:\Projects\hornet-app\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="370e490e-0b99-4b71-a596-a5f422ce04dc" name="Default Changelist" comment="" />
+      <created>1580424225190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580424225190</updated>
+      <workItem from="1580424226563" duration="10641000" />
+      <workItem from="1580479211253" duration="53093000" />
+      <workItem from="1580592438931" duration="10391000" />
+      <workItem from="1580665629340" duration="5581000" />
+      <workItem from="1581437337519" duration="5727000" />
+      <workItem from="1581535716584" duration="360000" />
+      <workItem from="1581536378651" duration="3791000" />
+      <workItem from="1581622636758" duration="931000" />
+      <workItem from="1583420560253" duration="1773000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1583420665504</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583420665504</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1583421472785</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583421472785</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581437540825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="416" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/3840.0.1920.1040/5760.0.1920.1040@0.0.1920.1040" timestamp="1580446699243" />
+    <state x="416" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/5760.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1581437540825" />
+    <state x="582" y="114" key="CommitChangelistDialog2" timestamp="1583421472018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="114" key="CommitChangelistDialog2/0.0.1920.1040/5760.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1583421472018" />
+    <state x="741" y="276" key="FileChooserDialogImpl" timestamp="1581484466991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="276" key="FileChooserDialogImpl/0.0.1920.1040/5760.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1581484466991" />
+    <state width="1900" height="298" key="GridCell.Tab.0.bottom" timestamp="1581480953379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.0.1920.1040/5760.0.1920.1040@0.0.1920.1040" timestamp="1580609266839" />
+    <state width="1900" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040/5760.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1581480953379" />
+    <state width="1900" height="298" key="GridCell.Tab.0.center" timestamp="1581480953379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/3840.0.1920.1040/5760.0.1920.1040@0.0.1920.1040" timestamp="1580609266839" />
+    <state width="1900" height="298" key="GridCell.Tab.0.center/0.0.1920.1040/5760.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1581480953379" />
+    <state width="1900" height="298" key="GridCell.Tab.0.left" timestamp="1581480953379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/3840.0.1920.1040/5760.0.1920.1040@0.0.1920.1040" timestamp="1580609266839" />
+    <state width="1900" height="298" key="GridCell.Tab.0.left/0.0.1920.1040/5760.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1581480953379" />
+    <state width="1900" height="298" key="GridCell.Tab.0.right" timestamp="1581480953379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/3840.0.1920.1040/5760.0.1920.1040@0.0.1920.1040" timestamp="1580609266839" />
+    <state width="1900" height="298" key="GridCell.Tab.0.right/0.0.1920.1040/5760.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1581480953379" />
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2" timestamp="1583421514994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/5760.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1583421514994" />
+    <state x="768" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583420613957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/5760.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1583420613957" />
+    <state x="653" y="117" width="613" height="804" key="find.popup" timestamp="1580541710188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="117" width="613" height="804" key="find.popup/0.0.1920.1040/3840.0.1920.1040/5760.0.1920.1040@0.0.1920.1040" timestamp="1580541710188" />
+    <state x="619" y="175" width="670" height="676" key="search.everywhere.popup" timestamp="1580430454888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="619" y="175" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040/3840.0.1920.1040/5760.0.1920.1040@0.0.1920.1040" timestamp="1580430454888" />
+  </component>
+</project>

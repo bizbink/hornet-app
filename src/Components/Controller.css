@@ -1,0 +1,42 @@
+.App-container > .controller {
+    grid-area: controller;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+}
+
+.App-container > .controller > h4 {
+    color: goldenrod;
+    margin: 0;
+}
+
+.App-container > .controller > div {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-evenly;
+    align-content: space-between;
+    flex-grow: 1;
+    border: cadetblue solid 2px;
+    border-radius: 4px;
+    font-size: .75em;
+}
+
+.App-container > .controller > div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.App-container > .controller > div > div.inputs {
+    display: flex;
+    justify-content: space-around;
+}
+
+.App-container > .controller > div > div.inputs > table tr {
+    display: flex;
+    justify-content: space-between;
+}
+
+.App-container > .controller table td {
+    padding: 0;
+}

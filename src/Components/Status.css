@@ -1,0 +1,22 @@
+.status {
+    grid-area: connect;
+    height: calc(50% - 5px);
+    justify-content: left;
+    display: flex;
+    flex-flow: column;
+}
+
+.status > h4 {
+    color: goldenrod;
+    margin: 0;
+}
+
+.status > div {
+    padding: 5px 10px;
+    border: cadetblue solid 2px;
+    border-radius: 4px;
+    flex-grow: 1;
+    display: flex;
+    flex-flow: column;
+    font-size: .75em;
+}

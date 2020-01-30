@@ -1,0 +1,20 @@
+.camera {
+    margin-top: 10px;
+    grid-area: camera;
+    height: calc(50% - 5px);
+    justify-content: left;
+    display: flex;
+    flex-flow: column;
+}
+
+.camera > h4 {
+    color: goldenrod;
+    margin: 0;
+}
+
+.camera > div {
+    border: cadetblue solid 2px;
+    border-radius: 4px;
+    flex-grow: 1;
+    display: flex;
+}
